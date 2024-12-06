@@ -149,3 +149,5 @@ SOCIALACCOUNT_PROVIDERS = {
         }
     }
 }
+
+LOGIN_URL = '/index/'
